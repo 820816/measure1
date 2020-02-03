@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DataSet
+comment0.text=\r\n\ \ \ Computes\ the\ average\ of\ a\ set\ of\ data\ values.\r\n
+comment1.params=
+comment1.target=DataSet()
+comment1.text=\r\n\ \ \ \ \ \ Constructs\ an\ empty\ data\ set.\r\n
+comment2.params=x
+comment2.target=void\ add(Measurable)
+comment2.text=\r\n\ \ \ \ \ \ Adds\ a\ data\ value\ to\ the\ data\ set.\r\n\ \ \ \ \ \ @param\ x\ a\ data\ value\r\n
+comment3.params=
+comment3.target=double\ getAverage()
+comment3.text=\r\n\ \ \ \ \ \ Gets\ the\ average\ of\ the\ added\ data.\r\n\ \ \ \ \ \ @return\ the\ average\ or\ 0\ if\ no\ data\ has\ been\ added\r\n
+comment4.params=
+comment4.target=Measurable\ getMaximum()
+comment4.text=\r\n\ \ \ \ \ \ Gets\ the\ largest\ of\ the\ added\ data.\r\n\ \ \ \ \ \ @return\ the\ maximum\ or\ 0\ if\ no\ data\ has\ been\ added\r\n
+numComments=5
